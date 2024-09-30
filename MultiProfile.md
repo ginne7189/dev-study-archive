@@ -1,7 +1,7 @@
 # Multi Profile에서 특정 환경에서만 Config 또는 Bean 등록
 
 Spring Boot에서 Multi Profile을 활용하면 다양한 환경에서 애플리케이션을 유연하게 구성할 수 있습니다. 
-이를 이해하고 활용하기 위해 알아야 할 주요 개념들은 다음과 같습니다:
+이를 이해하고 활용하기 위해 알아야 할 주요 개념들은 다음과 같습니다.
 
 ## 1. Spring Profile 개념
 Spring Profile은 애플리케이션이 실행되는 환경에 따라 다른 설정 파일 또는 Bean을 사용하도록 합니다. 
